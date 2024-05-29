@@ -1,6 +1,6 @@
 **Boas vindas ao meu perfil!!**
 
-Estou estudando no **Alura**#
+Estou estudando no **Alura**
 
 Estou me desenvolmento na linguagem JavaScript
 
